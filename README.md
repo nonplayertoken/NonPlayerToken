@@ -15,4 +15,5 @@ In late 2021, npct.exchange will launch pools and farms where users can earn NPC
 Future plans include methods to effectively burn NPCT tokens and reduce supply (NFT's, exchange fees) but more on this will be released in due course.
 
 Non-Player Token Contract: 0x1b845c64c07361d13a08f479c60f72dbb4616d73
+
 BscScan: https://bscscan.com/token/0x1b845c64c07361d13a08f479c60f72dbb4616d73
